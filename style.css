@@ -1,0 +1,56 @@
+header {
+    background-color: steelblue;
+    color: black;
+    text-align: center;
+    padding: 20px 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: black;
+}
+
+
+.profile{
+    display: block;
+    margin-left: 600px;
+    margin-right: 600px;
+    width: 50%;
+        
+}
+.profile img {
+    max-width: 200px;
+    border-radius: 10%;
+
+}
+
+h2{
+    color: steelblue;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.social-media ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: left;
+}
+.social-media ul li {
+    margin: 35px;
+}
+
+footer {
+    background-color: steelblue;
+    color:black;
+    text-align: center;
+    padding: 20px 0;
+}
