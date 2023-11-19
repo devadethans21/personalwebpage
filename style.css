@@ -9,7 +9,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: white;
+    background-color: steelblue;
     color: black;
 }
 
@@ -30,6 +30,10 @@ body {
 h2{
     color: steelblue;
 }
+h3{
+    color: steelblue;
+}
+
 
 section {
     margin: 20px;
